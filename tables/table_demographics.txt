@@ -1,0 +1,28 @@
+|    |   Age | Gender   |   Disease_duration |   Follow-up | Manufacturer   | Target   |
+|----|-------|----------|--------------------|-------------|----------------|----------|
+|  0 |    72 | F        |                 13 |          25 | Abbott         | Gpi      |
+|  1 |    69 | M        |                 20 |          21 | Medtronic      | STN      |
+|  2 |    71 | F        |                 11 |          25 | Abbott         | STN      |
+|  3 |    66 | F        |                 15 |          22 | Medtronic      | STN      |
+|  4 |    69 | F        |                 11 |          21 | Abbott         | STN      |
+|  5 |    69 | M        |                 11 |          10 | Abbott         | Gpi      |
+|  6 |    58 | M        |                 18 |          19 | Abbott         | STN      |
+|  7 |    44 | M        |                 12 |          12 | Abbott         | STN      |
+|  8 |    60 | M        |                 16 |          14 | Abbott         | Gpi      |
+|  9 |    59 | F        |                  5 |         nan | Abbott         | Gpi      |
+| 10 |    69 | M        |                 15 |           8 | Abbott         | STN      |
+| 11 |    55 | M        |                 11 |          11 | Abbott         | STN      |
+| 12 |    57 | F        |                 16 |          12 | Boston         | STN      |
+| 13 |    67 | M        |                  4 |          13 | Abbott         | STN      |
+| 14 |    57 | M        |                  8 |          12 | Abbott         | STN      |
+| 15 |    59 | M        |                  6 |           9 | Abbott         | STN      |
+| 16 |    66 | F        |                 12 |           9 | Abbott         | Gpi      |
+| 17 |    72 | M        |                 12 |           6 | Abbott         | Gpi      |
+| 18 |    63 | M        |                 20 |           4 | Abbott         | STN      |
+| 19 |    60 | F        |                 18 |           8 | Abbott         | STN      |
+| 20 |    72 | M        |                 11 |           3 | Abbott         | Gpi      |
+| 21 |    67 | F        |                 13 |           6 | Abbott         | Gpi      |
+| 22 |    57 | M        |                 10 |           8 | Abbott         | STN      |
+| 23 |    69 | F        |                  9 |           9 | Abbott         | Gpi      |
+| 24 |    55 | F        |                  5 |           5 | Abbott         | STN      |
+| 25 |    45 | M        |                  4 |           4 | Boston         | STN      |
