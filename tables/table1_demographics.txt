@@ -1,0 +1,26 @@
+|    |   Age | Gender   |   Disease_duration |   Follow-up | Manufacturer   | Target   |
+|----|-------|----------|--------------------|-------------|----------------|----------|
+|  0 |    50 | F        |                  8 |          11 | Abbott         | Gpi      |
+|  1 |    52 | M        |                  9 |          12 | Medtronic      | STN      |
+|  2 |    54 | F        |                 10 |          13 | Boston         | Gpi      |
+|  3 |    56 | M        |                 11 |          11 | Abbott         | STN      |
+|  4 |    58 | F        |                 12 |          12 | Medtronic      | Gpi      |
+|  5 |    60 | M        |                  8 |          13 | Boston         | STN      |
+|  6 |    62 | F        |                  9 |          11 | Abbott         | Gpi      |
+|  7 |    64 | M        |                 10 |          12 | Medtronic      | STN      |
+|  8 |    66 | F        |                 11 |          13 | Boston         | Gpi      |
+|  9 |    68 | M        |                 12 |          11 | Abbott         | STN      |
+| 10 |    70 | F        |                  8 |          12 | Medtronic      | Gpi      |
+| 11 |    72 | M        |                  9 |          13 | Boston         | STN      |
+| 12 |    51 | F        |                 10 |          11 | Abbott         | Gpi      |
+| 13 |    53 | M        |                 11 |          12 | Medtronic      | STN      |
+| 14 |    55 | F        |                 12 |          13 | Boston         | Gpi      |
+| 15 |    57 | M        |                  8 |          11 | Abbott         | STN      |
+| 16 |    59 | F        |                  9 |          12 | Medtronic      | Gpi      |
+| 17 |    61 | M        |                 10 |          13 | Boston         | STN      |
+| 18 |    63 | F        |                 11 |          11 | Abbott         | Gpi      |
+| 19 |    65 | M        |                 12 |          12 | Medtronic      | STN      |
+| 20 |    67 | F        |                  8 |          13 | Boston         | Gpi      |
+| 21 |    69 | M        |                  9 |          11 | Abbott         | STN      |
+| 22 |    71 | F        |                 10 |          12 | Medtronic      | Gpi      |
+| 23 |    73 | M        |                 11 |          13 | Boston         | STN      |
